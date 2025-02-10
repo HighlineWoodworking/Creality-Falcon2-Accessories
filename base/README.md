@@ -1,6 +1,6 @@
 # Creality Falcon2 Base
 
-Base plate for a [Creality Falcon2 Laser](https://www.creality.com/products/creality-falcon2-22w).  Provides a secure foundation for the frame and supports precise, repeatable positioning of work pieces.
+Provides a secure foundation for a [Creality Falcon2 Laser Frame](https://www.creality.com/products/creality-falcon2-22w) and supports precise, repeatable positioning of work pieces.
 
 <img src="images/3d_rendering.png" alt="Falcon2 base 3d rendering." width="50%" />
 
