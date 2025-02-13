@@ -12,7 +12,7 @@ Provides a secure foundation for a [Creality Falcon2 Laser Frame](https://www.cr
   * [Cadence Manufacturing "The Jenny"](https://www.cadencemfgdesign.com/product-page/the-jenny-bit-8675309)
   * [Woodpeckers US2102C](https://www.woodpeck.com/ultra-shear-quarter-inch-spiral-compression-bits.html)
 * 90 deg v-bit
-  * [Amana RC-45711]([https://www.amazon.com/Amana-RC-45711-Insert-Carbide-Groove/dp/B003DCMDRU)
+  * [Amana RC-45711](https://www.amazon.com/Amana-RC-45711-Insert-Carbide-Groove/dp/B003DCMDRU)
   
 ## Machining
 
