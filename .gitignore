@@ -1,0 +1,9 @@
+# local and temporary directories
+local/
+gcode/
+temp/
+
+
+
+
+
