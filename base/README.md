@@ -11,10 +11,29 @@ Provides a secure foundation for a [Creality Falcon2 Laser Frame](https://www.cr
 * 12.7mm (1/2 inch) MDF
 * TODO: machining
 
+## Tools and Materials
+
+## Machining
+
+### 90deg V-bit
+
+* Softens edges, makes feet easier to insert, adds label
+* Layers: Outlines, Feet Insets, Highline Woodworking
+* Machine along the vectors
+* Outlines and Feet Insets final depth 1mm
+* Highline Woodworking 0.2mm (skip entirely if you don't want the text label or change to your own)
+
+### 4mm Up-Cut
+
+### 
+
+
+
 ## Files
 
 * base_v01.art = [Carveco Maker](https://carveco.com/carveco-software-range/carveco-maker/) source file
-* base_v01.dxf = [DXF](https://en.wikipedia.org/wiki/AutoCAD_DXF) source file 
+* base_v01.dxf = [DXF](https://en.wikipedia.org/wiki/AutoCAD_DXF) source file
+* base_v01.dwg = 
 
 ## Versions
 
