@@ -4,14 +4,12 @@ Provides a secure foundation for a [Creality Falcon2 Laser Frame](https://www.cr
 
 <img src="images/3d_rendering.png" alt="Falcon2 base 3d rendering." width="50%" />
 
-## Notes
-
-* drawing units are mm
-* 650 x 744mm blank
-* 12.7mm (1/2 inch) MDF
-* TODO: machining
-
 ## Tools and Materials
+
+* CNC machine capable of machining a 26 x 30 inch piece
+* 1/2 inch MDF 650 x 744mm which leaves a 20mm margin on each edge for hold-down clamps
+* 1/4 inch end-mill, only absolutely required bit, good examples:
+  * [Cadence Manufacturing "The Jenny"](https://www.cadencemfgdesign.com/product-page/the-jenny-bit-8675309)
 
 ## Machining
 
@@ -29,13 +27,13 @@ Provides a secure foundation for a [Creality Falcon2 Laser Frame](https://www.cr
 * layer ```Alignment Holes``` final depth 5mm
 * drill peck holes
 
-### 1/4 inch Compression
+### 1/4 inch End-Mill (Compression best)
 
 * cuts insets for feet and the final outline for the piece
 * layer ```Feet Insets``` area clear inside the circles, final depth 8mm
 * layer ```Outlines``` cut outside the vectors, 13.1mm final depth
-  ** add bridges or other "holddowns"
-  ** example bridges: 8 x 30mm long x 1mm thick
+  * add bridges or other "holddowns"
+  * example bridges: 8 x 30mm long x 1mm thick
 
 ## Files
 
