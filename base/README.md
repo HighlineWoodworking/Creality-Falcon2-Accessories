@@ -34,7 +34,7 @@ Provides a secure foundation for a [Creality Falcon2 Laser Frame](https://www.cr
 * cuts insets for feet and the final outline for the piece
 * layer ```Feet Insets``` area clear inside the circles, final depth 8mm
 * layer ```Outlines``` cut outside the vectors, 13.1mm final depth
-  * add bridges or other "holddowns"
+  * add bridges or other supports
   * example bridges: 8 x 30mm long x 1mm thick
 
 ## Files
