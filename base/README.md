@@ -17,17 +17,25 @@ Provides a secure foundation for a [Creality Falcon2 Laser Frame](https://www.cr
 
 ### 90deg V-bit
 
-* Softens edges, makes feet easier to insert, adds label
-* Layers: Outlines, Feet Insets, Highline Woodworking
-* Machine along the vectors
-* Outlines and Feet Insets final depth 1mm
-* Highline Woodworking 0.2mm (skip entirely if you don't want the text label or change to your own)
+* softens edges, makes feet easier to insert, adds label
+* layers: ```Outlines, Feet Insets, Highline Woodworking```
+* machine along the vectors
+* ```Outlines and Feet Insets``` final depth 1mm
+* ```Highline Woodworking``` 0.2mm (skip entirely if you don't want the text label or change to your own)
 
 ### 4mm Up-Cut
 
-### 
+* 5mm spaced holes for 4mm alignment pins
+* layer ```Alignment Holes``` final depth 5mm
+* drill peck holes
 
+### 1/4 inch Compression
 
+* cuts insets for feet and the final outline for the piece
+* layer ```Feet Insets``` area clear inside the circles, final depth 8mm
+* layer ```Outlines``` cut outside the vectors, 13.1mm final depth
+  ** add bridges or other "holddowns"
+  ** example bridges: 8 x 30mm long x 1mm thick
 
 ## Files
 
