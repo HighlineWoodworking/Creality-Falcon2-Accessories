@@ -10,7 +10,10 @@ Provides a secure foundation for a [Creality Falcon2 Laser Frame](https://www.cr
 * 1/2 inch MDF 650 x 744mm which leaves a 20mm margin on each edge for hold-down clamps
 * 1/4 inch end-mill, only absolutely required bit, good examples:
   * [Cadence Manufacturing "The Jenny"](https://www.cadencemfgdesign.com/product-page/the-jenny-bit-8675309)
-
+  * [Woodpeckers US2102C](https://www.woodpeck.com/ultra-shear-quarter-inch-spiral-compression-bits.html)
+* 90 deg v-bit
+  * [Amana RC-45711]([https://www.amazon.com/Amana-RC-45711-Insert-Carbide-Groove/dp/B003DCMDRU)
+  
 ## Machining
 
 ### 90deg V-bit
