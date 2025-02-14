@@ -45,7 +45,13 @@ Provides a secure foundation for a [Creality Falcon2 Laser Frame](https://www.cr
 
 * base_v01.art = [Carveco Maker](https://carveco.com/carveco-software-range/carveco-maker/) source file
 * base_v01.dxf = [DXF](https://en.wikipedia.org/wiki/AutoCAD_DXF) source file
-* base_v01.dwg = 
+* base_v01.dwg = AutoCad drawing file created with [Siemens Solid Edge 2D](https://resources.sw.siemens.com/en-US/download-free-2d-cad-software/)
+
+## Dimensions
+
+<img src="images/main_dimensions.png" alt="Main dimensions." width="75%" />
+
+<img src="images/alignment_hole_dimensions.png" alt="Alignment hole dimensions." width="75%" />
 
 ## Versions
 
