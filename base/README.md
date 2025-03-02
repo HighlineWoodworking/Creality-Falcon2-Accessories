@@ -2,7 +2,7 @@
 
 Provides a secure foundation for a [Creality Falcon2 Laser Frame](https://www.creality.com/products/creality-falcon2-22w) and supports precise, repeatable positioning of work pieces.
 
-<img src="images/3d_rendering.png" alt="Falcon2 base 3d rendering." width="50%" />
+<img src="images/base_top_view.png" alt="Falcon2 base 3d rendering." width="50%" />
 
 ## Tools and Materials
 
