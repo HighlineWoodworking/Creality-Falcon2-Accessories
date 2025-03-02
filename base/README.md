@@ -41,13 +41,17 @@ Provides a secure foundation for a [Creality Falcon2 Laser Frame](https://www.cr
 * layer ```Outlines``` cut outside the vectors, 13.1mm final depth
   * add bridges or other supports
   * example bridges: 8 x 30mm long x 1mm thick
+ 
+### Reference Grid
+
+See [Engraving the Reference Grid](reference_grid.md)
 
 ## Files
 
 * base_v01.art = [Carveco Maker](https://carveco.com/carveco-software-range/carveco-maker/) source file
 * base_v01.dxf = [DXF](https://en.wikipedia.org/wiki/AutoCAD_DXF) exported source file
 * base_v01.dwg = AutoCad drawing file created with [Siemens Solid Edge 2D](https://resources.sw.siemens.com/en-US/download-free-2d-cad-software/)
-* laser_grid.nc = [G-code](https://en.wikipedia.org/wiki/G-code) file to burn an alignment grid into the completed MDF base
+* laser_grid.nc = [G-code](https://en.wikipedia.org/wiki/G-code) file to burn a reference grid into the completed MDF base
 
 ## Dimensions
 
