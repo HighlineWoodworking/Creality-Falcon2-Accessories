@@ -11,4 +11,8 @@ A G-code file to engrave a reference grid on the MDF base is included with the p
 
 <img src="images/lasergrbl_steps.png" alt="LaserGRBL steps." width="50%" />
 
+# Alignment Accuracy
+
+In my one test the reference grid should track the alignment holes within ~1mm across the working area which I suspect is the accuracy of the Falcon2.  If you find otherwise would be curious to know how much it changes and any ideas why.  
+
 
