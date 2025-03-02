@@ -4,7 +4,10 @@ A G-code file to engrave a reference grid on the MDF base is included with the p
 
 <img src="images/alignment_pins.png" alt="Alignment pins." width="50%" />
 
-Open [LaserGRBL](https://lasergrbl.com/), open the reference grid G-code file and connect to the Falcon2.
+1. Mount the Falcon2 on the base, and set the laser height for engraving.
+2. Open [LaserGRBL](https://lasergrbl.com/), open the reference grid G-code file and connect to the Falcon2.
+3. Click the buttons 1 then 2 in LaserGRBL per the image below.  This will send the laser to home and zero it at home.
+4. Send the file to the Falcon2.
 
 <img src="images/lasergrbl_steps.png" alt="LaserGRBL steps." width="50%" />
 
