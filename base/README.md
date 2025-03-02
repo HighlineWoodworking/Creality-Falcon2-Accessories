@@ -16,7 +16,7 @@ Provides a secure foundation for a [Creality Falcon2 Laser Frame](https://www.cr
 * 4mm up-cut
   * [Woodpeckers US204MU](https://www.woodpeck.com/ultra-shear-metric-mortising-bits-for-domino-tenons.html)
 * 4mm alignment pins
-  * [Amazon Asamuyu](https://www.amazon.com/Stainless-Shelves-Hardware-Support-Fastener/dp/B0D1VHPK3Y?th=1)
+  * [Amazon Asamuyu](https://www.amazon.com/Stainless-Shelves-Hardware-Support-Fastener/dp/B0D1VHPK3Y?th=1) stainless steel very tight fit
   
 ## Machining
 
