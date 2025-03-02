@@ -55,6 +55,14 @@ Provides a secure foundation for a [Creality Falcon2 Laser Frame](https://www.cr
 
 <img src="images/alignment_hole_dimensions.png" alt="Alignment hole dimensions." width="50%" />
 
+## Images
+
+<img src="images/installed_base_with_grid.png" alt="Installed base." width="50%" />
+
+<img src="images/base_feet.png" alt="Base feet." width="50%" />
+
+<img src="images/alignment_pins.png" alt="Alignment pins." width="50%" />
+
 ## Versions
 
 * v01 | 10-Feb-2025 | inital post
